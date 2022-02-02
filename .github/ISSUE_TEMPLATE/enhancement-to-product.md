@@ -1,9 +1,9 @@
 ---
-name: File a bug
-about: File a bug to help the product improve
-title: "[BUG]"
-labels: bug
-assignees: ''
+name: Enhancement to product
+about: A minor improvement to a product
+title: "[Enhancement]"
+labels: enhancement
+assignees: stedi-engineering
 
 ---
 
