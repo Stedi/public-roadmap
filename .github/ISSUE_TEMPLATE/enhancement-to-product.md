@@ -9,15 +9,15 @@ assignees: stedi-engineering
 
 **Summary**
 
-A clear and concise description of what the bug is.
+A clear and concise description of what the enhancement is.
 
 **Intended Outcome**
 
-What should happen instead?
+What does the end result of this look like?
 
 **How will it work?**
 
-Should it just work? Should this be toggleable? Should this be for GA, DevPreview?
+Should it just work? Should this be toggleable? Will it be opt-in? Should this be for GA, DevPreview?
 
 **References**
 

@@ -1,9 +1,9 @@
 ---
-name: File a bug
+name: Bug report
 about: File a bug to help the product improve
-title: "[BUG]"
-labels: bug
-assignees: ''
+title: "[Bug]"
+labels: bug, triage
+assignees: 'stedi-engineering'
 
 ---
 
