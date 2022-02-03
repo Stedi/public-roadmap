@@ -1,8 +1,8 @@
 ---
-name: Significant feature
+name: Feature
 about: A significant feature added to a GA product
-title: "[{product_name}]"
-labels: "significant feature"
+title: "[product_name]"
+labels: "feature"
 assignees: 
 
 ---
