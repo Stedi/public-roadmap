@@ -1,0 +1,34 @@
+name: auto-assign-issues-beta-projects
+on:
+  issues:
+    types:
+      - opened
+      - reopened
+      - closed
+jobs:
+  issue_opened_or_reopened:
+    name: issue_opened_or_reopened
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issues' && (github.event.action == 'opened' || github.event.action == 'reopened')
+    steps:
+      - name: Move issue to untriaged
+        uses: leonsteinhaeuser/project-beta-automations@v1.1.1
+        with:
+          gh_token: ${{ secrets.ENG_GITHUB_TOKEN }}
+          organization: Stedi
+          project_id: 79
+          resource_node_id: ${{ github.event.issue.node_id }}
+          status_value: Researching # Target status
+  issue_closed:
+    name: issue_closed
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issues' && github.event.action == 'closed'
+    steps:
+      - name: Moved issue to Shipped
+        uses: leonsteinhaeuser/project-beta-automations@v1.1.1
+        with:
+          gh_token: ${{ secrets.ENG_GITHUB_TOKEN }}
+          organization: Stedi
+          project_id: 79
+          resource_node_id: ${{ github.event.issue.node_id }}
+          status_value: Shipped # Target status
