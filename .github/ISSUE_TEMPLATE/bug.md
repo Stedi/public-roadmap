@@ -3,7 +3,7 @@ name: Bug report
 about: File a bug to help the product improve
 title: "[{product_name}]"
 labels: bug, triage
-assignees: 'stedi-engineering'
+assignees: 
 
 ---
 
