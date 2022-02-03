@@ -1,7 +1,7 @@
 ---
 name: Security & Compliance
 about: A new security measure or compliance program launches
-title: "[Security & Compliance]"
+title: "[{product_name}]"
 labels: "security & compliance"
 assignees: davit-b
 
