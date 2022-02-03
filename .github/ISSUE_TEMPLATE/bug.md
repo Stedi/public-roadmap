@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: File a bug to help the product improve
-title: "[Bug]"
+title: ""
 labels: bug, triage
 assignees: 'stedi-engineering'
 
