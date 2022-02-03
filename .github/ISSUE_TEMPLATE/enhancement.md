@@ -3,7 +3,7 @@ name: Enhancement to product
 about: A minor improvement to a product
 title: "[{product_name}]"
 labels: enhancement
-assignees: stedi-engineering
+assignees: 
 
 ---
 
