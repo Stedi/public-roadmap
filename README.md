@@ -1,2 +1,2 @@
-# roadmap
-Stedi's "internal" public roadmap.
+# Public Roadmap
+Stedi's public roadmap.
