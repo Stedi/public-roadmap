@@ -1,7 +1,7 @@
 ---
 name: Significant feature
 about: A significant feature added to a GA product
-title: "[Significant feature]"
+title: "[{product_name}]"
 labels: "significant feature"
 assignees: stedi-engineering
 
