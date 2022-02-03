@@ -7,18 +7,16 @@ assignees: 'stedi-engineering'
 
 ---
 
-**Summary**
+## Summary
 
 A clear and concise description of what the bug is.
 
-**Intended Outcome**
+### Steps to reproduce
+
+### Intended Outcome
 
 What should happen instead?
 
-**How will it work?**
+### References
 
-Should it just work? Should this be toggleable? Should this be for GA, DevPreview?
-
-**References**
-
-Links to PRs, Issues, external
+Links to PRs, Issues, GIFs, Images, 
