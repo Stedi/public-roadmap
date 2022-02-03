@@ -1,7 +1,7 @@
 ---
 name: Product Launch
 about: A new product going to GA.
-title: "[Product Launch]"
+title: "[{product_name}]"
 labels: "product launch"
 assignees: davit-b
 
