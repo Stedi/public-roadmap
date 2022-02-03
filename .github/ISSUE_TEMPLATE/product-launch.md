@@ -1,7 +1,7 @@
 ---
 name: Product Launch
-about: A new product going to GA
-title: "[Launch]"
+about: A new product going to GA.
+title: "[Product Launch]"
 labels: "product launch"
 assignees: davit-b
 
