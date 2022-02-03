@@ -7,21 +7,18 @@ assignees: davit-b
 
 ---
 
-**Summary**
+## Summary
 
-A clear description of the product being launched
+A clear description of the product being launched.
 
-**Intended Outcome**
+### Intended Outcome
 
-How and for what can a customer use this product? What usecases does it enable?
+What is the primary value propopsition of this product? What does it enable?
 
-**How will it work?**
+### How will it work?
 
-Through what UI/API/...etc will a customer use this?
-Is this an stateless API product or a infrastructure product?
-Will it be opt-in? 
-Are there tutorials or blog posts to follow?
+Describe the user experience and/or interface.
 
-**References**
+### References
 
-Links to PRs, Issues, external
+Links to PRs, Issues, docs, images
