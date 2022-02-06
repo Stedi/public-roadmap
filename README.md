@@ -53,7 +53,7 @@ If you want to ask a question or provide feedback, please open a [Discussion](ht
 - **Announcements:** Stedi will use this to announce the launch of new features, or improvements to the roadmap
 - **Bugs:** Customers can log bugs in this Discussion category and Stedi will respond to help and resolve
 - **Electronic Data Interchange:** this is a forum for users to discuss specifics about EDI standards, specifications, and share industry knowledge
-- **Ideas:** this is a forum for users to propose ideas and discuss how to build on Stedi
+- **Ideas & Feedback:** this is a forum for users to propose ideas and discuss how to build on Stedi
 - **Q&A:** if you have a specific question for Stedi (or another member of the community) use this Q&A-style discussion
 
 **Q: How do I contact Stedi directly?**
