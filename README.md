@@ -6,7 +6,7 @@
 
 ## Introduction to the Stedi Roadmap
 
-This is the public roadmap for all Stedi products. Knowing about our upcoming products and priorities helps our customers plan and allows solicit feedback early from our users. This repository contains information about what we are working on, allows all Stedi customers to give direct feedback to our engineers, and for the community to engage with one-another.
+This is the public roadmap for all Stedi products. Knowing about our upcoming products and priorities helps our customers plan and allows us to solicit feedback early from our users. This repository contains information about what we are working on, allows all Stedi customers to give direct feedback to our engineers, and for the community to engage with one-another.
 
 [See the roadmap](https://github.com/orgs/Stedi/projects/79)
 
