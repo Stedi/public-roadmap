@@ -23,11 +23,11 @@ If you think you've found a potential security problem, please do not create an 
 
 **Q: Why did you do this?**
 
-We know that our customers are constantly making decisions on what to build, and we want to make sure they have visibility into our roadmap so they can make more informed decisions on what they decide to build. Additionally, sharing our roadmap publicly enables us to receive feedback early and often from the community.
+We know that our customers are constantly making decisions on what to build, and we want to make sure they have visibility into our roadmap so they can make more informed decisions on where they decide to build. Additionally, sharing our roadmap publicly enables us to receive feedback early and often from the community.
 
 **Q: Why are there no dates on your roadmap?**
 
-Dates are hard to predict, especially when security and operational stability are paramount to getting a product into the hands of developers. The published roadmap is subject to change at any time, and roadmap issues in this repository do not guarantee a feature will be launched as proposed.
+Availability dates for new products or features are hard to predict, especially when security and operational stability are paramount to getting a product into the hands of developers. The published roadmap is subject to change at any time, and roadmap issues in this repository do not guarantee a feature will be launched as proposed. We do update the roadmap regularly to reflect accurate information the best way possible. 
 
 **Q: What do the roadmap categories mean?**
 
@@ -62,4 +62,4 @@ Send an email over to team@stedi.com or tweet at us [@Stedi](https://twitter.com
 
 **Q: What other open source repos does Stedi maintain?#** 
 
-- [Starter-kit](https://github.com/Stedi/starter-kit) contains everything you need to get started developing on Stedi
+- [Starter-kit](https://github.com/Stedi/starter-kit) contains everything you need to get started developing on Stedi.
